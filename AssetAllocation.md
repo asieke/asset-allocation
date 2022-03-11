@@ -69,7 +69,7 @@ Many of these asset classes are further subdivided into **asset class categories
 - Alice invests $10,000 in 1994 in an allocation of 100% equities.
   - Today, Alice has $154,000 and has achieved an average return of 10.2%. However, during 2008 her portfolio declined over 50% in value.
 - Bob invests $10,000 in 1994 in an allocation of 50% equities, 30% bonds, 20% real estate
-  - Today, Bob has $111,000 and has achieved an average return of 8.9%. During 2008 his diversified portfolio declined \*\*\*\*39%.
+  - Today, Bob has $111,000 and has achieved an average return of 8.9%. During 2008 his diversified portfolio declined 39%.
 - Clearly, in hindsight, you would prefer Alice’s allocation, but Bob was able to achieve almost the same return (8.9% vs 10.2%) with roughly 40% less risk.
 - Which would you choose?
 
