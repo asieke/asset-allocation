@@ -49,6 +49,8 @@ Many of these asset classes are further subdivided into **asset class categories
 - It is similarly difficult to predict the performance of an asset class, **however**, we can reliably look at history to understand patterns in the relationships between different asset classes.
 - A classic example would be the relationship between stocks and bonds. Typically during periods when stocks are performing well, bonds will perform poorly. Conversely when bonds are performing poorly stocks typically perform well.
 - This relationship between stocks and bonds would be known as an inverse correlation.
+- The table below shows the historical return and risk of the four most common asset classes over the past 30 years.  Additionally it shows the correlations between 2 asset classes.  A correlation of 1 would mean every time asset A increases, asset B also increases.  A correlation of -1 would mean every time asset A increases, asset B decreases.
+
   | Asset Class | Return | Risk | Equities | Cash | Bonds | Real Estate |
   | ----------- | ------ | ------ | -------- | ----- | ----- | ----------- |
   | Equities | 11.45% | 17.78% | 1 | -0.2 | -0.02 | 0.68 |
@@ -56,7 +58,6 @@ Many of these asset classes are further subdivided into **asset class categories
   | Bonds | 4.69% | 4.74% | -0.02 | 0.17 | 1 | 0.39 |
   | Real Estate | 10.91% | 19.22% | 0.68 | -0.18 | 0.39 | 1 |
 
-- The table above shows the historical return and risk of the four most common asset classes over the past 30 years.
 - There are two key takeaways from looking at this historical data
   - Assets that have historically higher returns like stocks and real estate also have a much higher risk — they may increase 40% one year and decrease 30% the next year. Assets like bonds or cash are much less risky but also have lower expected returns.
   - To achieve a diversified portfolio, it is important to invest in asset classes that are inversely correlated.
